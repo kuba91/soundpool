@@ -26,5 +26,3 @@ flutter:
         pluginClass: SoundpoolPlugin
       web:
         default_package: soundpool_web 
-      macos:
-        default_package: soundpool_macos
